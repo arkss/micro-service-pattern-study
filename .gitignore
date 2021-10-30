@@ -1,1 +1,2 @@
-마이크로서비스패턴.pdf
+*.pdf
+.DS_store
